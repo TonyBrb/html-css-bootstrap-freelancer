@@ -48,8 +48,7 @@ header{
 }
 
 .ab-form{
-    /* height placeholder*/
-  height: 300px;
+
 }
 
 .ab-footer-top{
@@ -97,5 +96,15 @@ header{
 
 .ab-btn{
   border: 1px solid white;
+  color: white;
+}
+
+.form-control{
+  border: none;
+  border-bottom: 1px solid lightgray;
+}
+
+.btn-acqua{
+  background-color: #31BC9C;
   color: white;
 }
