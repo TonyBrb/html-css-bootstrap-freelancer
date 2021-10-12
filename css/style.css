@@ -90,3 +90,12 @@ header{
 .ab-box img{
   width: 100%;
 }
+
+.about.ab-bg-green.ab-py-50 .text-center h2{
+  color: white;
+}
+
+.ab-btn{
+  border: 1px solid white;
+  color: white;
+}
