@@ -21,15 +21,21 @@ header{
 }
 .ab-jumbotrone{
   margin-top: 80px;
+  color: white;
 }
 .ab-inner-jumbo{
-  background-color: cadetblue;
   width: 800px;
   max-width: 80%;
   margin: 0 auto;
+}
 
-  /* height placeholder*/
-  height: 300px;
+.ab-jumbo-img{
+  width: 150px;
+  margin: 0 auto;
+}
+
+.ab-jumbo-img img{
+  width: 100%;
 }
 
 .ab-box{
