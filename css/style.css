@@ -39,10 +39,8 @@ header{
 }
 
 .ab-box{
-  background-color: chocolate;
-  /* height margin placeholder*/
+  width: 100%;
   margin: 10px;
-  height: 300px;
 }
 
 .about{
@@ -83,4 +81,12 @@ header{
   color: grey;
   padding: 5px 10px 5px 10px;
   border-radius: 5px;
+}
+
+.ab-py-50 .text-center h2{
+  color: #2C3D50;
+}
+
+.ab-box img{
+  width: 100%;
 }
