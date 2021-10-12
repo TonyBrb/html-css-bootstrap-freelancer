@@ -99,6 +99,10 @@ header{
   color: white;
 }
 
+.ab-btn:hover{
+  background-color: white;
+}
+
 .form-control{
   border: none;
   border-bottom: 1px solid lightgray;
