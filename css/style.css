@@ -47,9 +47,6 @@ header{
   color:white;
 }
 
-.ab-form{
-
-}
 
 .ab-footer-top{
   color: white;
@@ -125,4 +122,23 @@ header{
 
 .ab-footer-bottom.ab-bg-blue{
   font-size: 10px;
+}
+
+.plus-hover{
+  width: 100%;
+  position: absolute;
+  font-size: 50px;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: none;
+}
+
+.plus-hover i{
+  position: relative;
+  top: 32%;
+  left: 42%;
+}
+
+.ab-box:hover .plus-hover{
+  display: block;
+  cursor: pointer;
 }
