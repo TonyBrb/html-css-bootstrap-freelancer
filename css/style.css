@@ -108,3 +108,17 @@ header{
   background-color: #31BC9C;
   color: white;
 }
+
+#col-centrale span{
+  border: 1px solid white;
+  border-radius: 50%;
+  padding: 5px 8px;
+}
+
+#span-green{
+  color: #31BC9C;
+}
+
+.ab-footer-bottom.ab-bg-blue{
+  font-size: 10px;
+}
